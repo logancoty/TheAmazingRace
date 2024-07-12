@@ -27,7 +27,7 @@ is the lone `1` in the first row, and the exit is the lone `1` in the last row.
 
 2. Create a directory for your project and place the Python script and maze files (`maze1.txt`, `maze2.txt`, etc.) in the same directory.
 
-Running the Code
+#### Running the Code
 
 1. Open a terminal or command prompt.
 
