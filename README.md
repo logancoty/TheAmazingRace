@@ -12,11 +12,11 @@ is the lone `1` in the first row, and the exit is the lone `1` in the last row.
 - Python 3.x
 - Text files named `mazeX.txt` (e.g., `maze1.txt`, `maze2.txt`) containing the maze data in the following format (any `a x a` size grid is acceptable):
 ```
-0 0 0 1 0
-0 0 1 1 1
-1 1 1 0 0
-1 0 0 0 0
-1 0 0 0 0
+0 0 0 1 0 0
+0 1 0 1 0 0
+0 1 1 1 1 0
+0 0 1 0 0 0
+0 0 1 0 0 0
 ```
 
 ## Instructions
