@@ -38,7 +38,7 @@ is the lone `1` in the first row, and the exit is the lone `1` in the last row.
 
 ### Output
 
-The program will output the path for each maze file in the following format:
+The program will output the path for each maze file in the console all at once with the following format:
 
 `Path found for Maze 1:`
 
