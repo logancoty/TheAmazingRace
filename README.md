@@ -34,7 +34,7 @@ is the lone `1` in the first row, and the exit is the lone `1` in the last row.
 2. Navigate to the directory containing the Python script and maze files: `cd path/to/your/directory`
 
 3. Run the script:
-   `python the_amazing_race.py`
+   `python3 the_amazing_race.py`
 
 ### Output
 
