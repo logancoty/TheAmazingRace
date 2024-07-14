@@ -47,20 +47,3 @@ The program will output the path for each maze file in the following format:
 If no path is found, it will output
 
 `No path found!`
-
-## Code Explanation
-
-### Functions
-
-- `read_maze(file_path)`: Reads the maze from the given file and returns it as a 2D list.
-- `find_start_coordinates(maze)`: Finds and returns the entrance coordinates of the maze.
-- `find_end_coordinates(maze)`: Finds and returns the exit coordinates of the maze.
-- `find_path(maze, x, y, endX, endY, path)`: Recursively finds a path from the entrance to the exit, marking visited cells and backtracking if necessary.
-
-### Main Flow
-
-1. The script gets the current directory and lists all files.
-2. It filters files that match the pattern `mazeX.txt`.
-3. It sorts the maze files in ascending order.
-4. For each maze file, it reads the maze, finds the entrance and exit, and tries to find a path.
-5. It prints the path if found, otherwise prints `No path found!`.
